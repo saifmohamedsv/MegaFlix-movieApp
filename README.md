@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### [Live Link](https://saifmohamedo.github.io)
 
 ## Screenshots
-![movieApp](https://i.ibb.co/SVyTv7L/973c98bb-c7ab-45c4-b021-3bb50ca5cee3.png)
+![movie](https://i.ibb.co/SVyTv7L/973c98bb-c7ab-45c4-b021-3bb50ca5cee3.png)
