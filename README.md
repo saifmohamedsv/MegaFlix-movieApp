@@ -8,4 +8,4 @@ Netflix clone app using Reactjs / axios / tmdb API
 
 ## Screenshots
 
-![movieA](https://i.ibb.co/SVyTv7L/973c98bb-c7ab-45c4-b021-3bb50ca5cee3.png)
+![movieA](https://ibb.co/0Y2NJVw)
