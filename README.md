@@ -1,7 +1,11 @@
-# Getting Started with MegaFlix web application
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netflix clone app using Reactjs / axios / tmdb API
 
-### [Live Link](https://saifmohamedo.github.io)
+### [Live Link]
+
+[https://megaflix-15c42.web.app/](https://megaflix-15c42.web.app/)
 
 ## Screenshots
+
+![movie](https://i.ibb.co/SVyTv7L/973c98bb-c7ab-45c4-b021-3bb50ca5cee3.png)

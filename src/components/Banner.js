@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";aa
 import axios from "../axios";
 import requests from "../requests";
 import "../styles/banner.scss";
 function Banner() {
   const [movie, setMovie] = useState([]);
+
   const img_url = "https://image.tmdb.org/t/p/original";
 
   useEffect(() => {

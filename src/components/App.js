@@ -14,6 +14,7 @@ function App() {
         fetchUrl={requests.fetchNetflixOriginals}
       />
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
+      <Banner />
       <Row title="Action Movies" fetchUrl={requests.fetchActionMovies} />
       <Row title="Comedy Movies" fetchUrl={requests.fetchComedyMovies} />
       <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />

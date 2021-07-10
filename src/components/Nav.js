@@ -17,7 +17,7 @@ function Nav() {
   return (
     <div className={`nav ${show && "nav__black"}`}>
       <img src={navlogo} className="nav__logo" alt="megaflix logo" />
-      <p className="nav__title">MegaFlix</p>
+      <p className="nav__title">MEGAFLIX</p>
     </div>
   );
 }
